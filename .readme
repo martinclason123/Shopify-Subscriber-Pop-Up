@@ -4,9 +4,9 @@ js.cookie.min.js
 custom-subscriber-popup.css
 custom-subscriber-popup.js
 
-2. Add this file to your sections folder
+2. create a new file in the sections folder called custom-subscriber-popup.liquid
 
-custom-subscriber-popup.liquid
+Add the contents of custom-subscriber-popup.liquid (from this repo) to the new file
 
 3. Add this code in the head tags of your theme.liquid file
 
